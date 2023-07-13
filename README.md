@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azfarhai22
-- 👀 I’m interested in Data science and AI&ML.
+- 👀 I’m interested in SDE, Data science and AI&ML.
 - 🌱 I’m currently learning computer science Engineering.
 - 💞️ I’m looking to collaborate on DATA SCIENCE AND MECHINE LEARNING
 - 📫  Reach me on whatsapp - +91 7856991702
