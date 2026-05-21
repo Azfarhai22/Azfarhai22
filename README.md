@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Azfarhai22
-- 👀 I’m interested in SDE, Data science and AI&ML.
-- 🌱 I’m currently learning computer science Engineering.
-- 💞️ I’m looking to collaborate on DATA SCIENCE AND MECHINE LEARNING
-- 📫  Reach me on whatsapp - +91 7856991702
+- 💻 Java Backend Developer
+- 🚀 Skilled in Spring Boot, Microservices, Kafka, MySQL & AWS
+- 🌱 Currently improving DSA and System Design
+- 👨‍💻 Interested in scalable backend applications
+- 📫 Open to Software Engineer opportunities
 
 <!---
 Azfarhai22/Azfarhai22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
